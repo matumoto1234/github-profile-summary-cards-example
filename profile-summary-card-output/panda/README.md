@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/matumoto1234/github-profile-summary-cards-example/master/profile-summary-card-output/panda/4-productive-time.svg)
+```
+
+    
